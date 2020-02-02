@@ -1,0 +1,40 @@
+.rule-2 {
+    color: blue;
+}
+
+#rule-1 {
+    font-size: 22px;
+    color: red;
+}
+
+h1 {
+    color: pink;
+}
+
+#rule-3 {
+    color: brown;
+}
+
+h2 {
+    color: coral;
+}
+
+.rule-4 {
+    color: darkblue;
+}
+
+h3 {
+    color: darkgreen;
+}
+
+[contenteditable] {
+    color: darkseagreen;
+}
+
+[contenteditable] {
+    color: deeppink;
+}
+
+.class {
+    color: greenyellow;
+}

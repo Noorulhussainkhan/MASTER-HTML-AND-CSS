@@ -1,0 +1,14 @@
+html {
+    font-size: 15rem;
+}
+
+p {
+    color: lawngreen;
+    /* text-decoration: line-through underline overline;  */
+
+    /* YOU CAN ALSO USE THIS */
+    /* text-decoration: line-through;
+    text-decoration: underline;
+    text-decoration: overline;
+    text-decoration: none; */
+}

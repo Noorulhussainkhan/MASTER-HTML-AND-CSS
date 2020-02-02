@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    /* flex-flow: row wrap; */ /* DEFAULT*/
+    /* flex-flow: column wrap; */
+}
+
+div {
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    background-color: gray;
+    text-align: center;
+}

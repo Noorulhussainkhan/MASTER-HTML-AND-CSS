@@ -1,0 +1,49 @@
+body {
+    font-size: 36px;
+}
+
+/* =============FIRST CHILD==================*/
+
+/* li:first-child {
+    color: red;
+} */
+
+/* =============LAST CHILD==================*/
+
+/* li:last-child {
+    color: red;
+} */
+
+/* =============EVEN CHILD==================*/
+
+/* li:nth-child(even) {
+    color: red;
+} */
+
+
+/* =============ODD CHILD==================*/
+/* li:nth-child(odd) {
+    color: red;
+} */
+
+/* =============NTH-LAST-CHILD==================*/
+/* li:nth-last-child(10) {
+    color: red;
+} */
+
+
+/*<!--  =============NTH-CHILD-AN+B==================-->*/
+    /* CHALLANGE */
+/* li:nth-child(3n+2) { */
+/* li:nth-child(10n+8) { */
+/* li:nth-child(3n+9) { */
+/* li:nth-child(9n+3) {
+    color: red;
+} */
+
+
+/*<!--  =============ONLY-CHILD==================-->*/
+
+/* article:only-child {
+    color: red;
+} */

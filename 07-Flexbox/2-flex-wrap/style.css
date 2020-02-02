@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    /* flex-wrap: wrap; */
+    /* flex-wrap: nowrap; */
+    /* flex-wrap: wrap-reverse; */
+
+    /* DEFAULT */
+    /* flex-direction: row; */
+
+    flex-direction: column;
+}
+
+div {
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    background-color: gray;
+    text-align: center;
+}

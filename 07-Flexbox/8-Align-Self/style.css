@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    flex-flow: row wrap;
+    /* flex-flow: column wrap; */
+    align-items: flex-end;
+    border: 5px solid red;
+    height: 700px;
+}
+
+div {
+    width: 200px;
+    height: 100px;
+    margin: 1em;
+    background-color: darkgray;
+    text-align: center;
+}
+
+#deviate {
+    /* align-self: flex-start; */
+    /* align-self: flex-end; */
+    /* align-self: center; */
+}

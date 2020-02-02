@@ -1,0 +1,9 @@
+div {
+    width: 100px;
+    height: 100px;
+
+    /* BOX MODEL */
+    border: 1px solid yellowgreen;
+    padding: 20px;
+    margin: 20px;
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Nested Selector</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    
+    <!-- DESCRAPTION -->
+    <p>div p = All p tags beneth a div</p>
+    <p>div > p = All p tags Immediately beneath a div</p>
+    <p>div ~ p = All p tags that are a sibling following a div</p>
+    <p>div + p = All p tags that are an immediate sibling following  a div</p>
+
+    <hr><hr>
+    <!-- div>p*2+section>p^^p -->
+    <div>
+        <p>First p</p>
+        <p>Second p</p>
+        <section>
+            <p>Third p</p>
+        </section>
+    </div>
+    <p>fourth p</p>
+    <p>fifth p</p>
+    <p>sixth p</p>
+
+</body>
+</html>

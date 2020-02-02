@@ -1,0 +1,44 @@
+/* ----------FIRST LETTER--------------- */
+/* body {
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+p {
+    margin: 20px;
+    font-size: 22px;
+}
+
+
+p::first-letter {
+    font-family: cursive;
+    font-size: 36px;
+    line-height: .5;
+} */
+
+/* ----------FIRST LINE--------------- */
+
+body {
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+p {
+    margin: 20px;
+    max-width: 600px;
+    text-indent: 100px;
+}
+
+
+p::first-letter {
+    font-family: cursive;
+    font-size: 36px;
+    line-height: .5;
+}
+
+p::first-line {
+    color: red;
+    font-weight: 900;
+}

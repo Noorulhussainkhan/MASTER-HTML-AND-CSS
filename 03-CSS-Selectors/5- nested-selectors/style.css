@@ -1,0 +1,29 @@
+body {
+    font-size: 35px;
+    text-align: center;
+    padding-top: 36px;
+}
+
+/* *********************************************************************** */
+/* div p = All p tags beneth a div */
+/* div p {
+    color: red;
+} */
+
+/* *********************************************************************** */
+/* div > p = All p tags Immediately beneath a div */
+/* div > p {
+    color: red;
+} */
+
+/* ************************************************************************/
+/* div ~ p = All p tags that are a sibling following a div */
+/* div ~ p {
+    color: red;
+} */
+
+/* *********************************************************************** */
+/* div + p = All p tags that are an immediate sibling following  a div */
+/* div + p {
+    color: red;
+} */
